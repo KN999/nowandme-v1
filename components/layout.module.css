@@ -1,0 +1,6 @@
+.container {
+    width: 24em;
+    height: fit-content;
+    background-color: #27292d;
+    border-radius: 8px;
+  }
